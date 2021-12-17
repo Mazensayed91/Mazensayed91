@@ -4,7 +4,7 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working as a software engineer at [robusta studio](https://github.com/RobustaStudio) and I am working in testing automation, Data Analyst Session Lead at Udacity, Chatbot Software Developer at Qurba and Final year Computer Engineering student
+- 🔭 I’m currently working as a software engineer at [Robusta Studio](https://github.com/RobustaStudio) and I am working in testing automation, Data Analyst Session Lead at [Udacity](https://github.com/udacity), Chatbot Software Developer at [Qurba](https://github.com/qurba) and Final year Computer Engineering student
 
 - 🌱 I’m currently learning **Fullstack Web Development || Distributed Systems || Testing Automation  || Data Science**
 
