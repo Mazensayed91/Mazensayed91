@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Mazen</h1>
-<h3 align="center">Software Developer | Data Analyst | Computer Engineering Student</h3>
+<h3 align="center">Software Developer | Machine Learning Engineer | Computer Engineering Student</h3>
 
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working as a software engineer at [Robusta Studio](https://github.com/RobustaStudio) and I am working in testing automation, Data Analyst Session Lead at [Udacity](https://github.com/udacity), Chatbot Software Developer at [Qurba](https://github.com/qurba) and Final year Computer Engineering student
+- 🔭 I’m currently working as a software engineer at [Robusta Studio](https://github.com/RobustaStudio) and I am working in testing automation, Data Analyst Session Lead at [Udacity](https://github.com/udacity), Machine Learning Engineer at [Brightskies](https://github.com/brightskiesinc) and Final year Computer Engineering student
 
 - 🌱 I’m currently learning **Fullstack Web Development || Distributed Systems || Testing Automation  || Data Science**
 
 - 💻 I mainly code in **Python, JavaScript and Java**
 
-- 💬 Ask me about **Data Analysis / Fullstack Web Development**
+- 💬 Ask me about **Data Analysis / Fullstack Web Development / Machine Learning**
  
 - 😄 Pronouns: **_he/him_**  
 
