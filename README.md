@@ -4,13 +4,13 @@
 
 #### 👨🏻‍💻  About Me
 
-- 🔭 I’m currently working as a software engineer at [Robusta Studio](https://github.com/RobustaStudio) and I am working in testing automation, Data Analyst Session Lead at [Udacity](https://github.com/udacity), Machine Learning Engineer at [Brightskies](https://github.com/brightskiesinc) and Final year Computer Engineering student
+- 🔭 I’m currently working as a software engineer at [Robusta Studio](https://github.com/RobustaStudio) and I am working in backend, Data Analyst Session Lead at [Udacity](https://github.com/udacity), Software Engineer at [Brightskies](https://github.com/brightskiesinc)
 
-- 🌱 I’m currently learning **Fullstack Web Development || Distributed Systems || Testing Automation  || Data Science**
+- 🌱 I’m currently learning **Backend Development || Distributed Systems || Data Science**
 
-- 💻 I mainly code in **Python, JavaScript and Java**
+- 💻 I mainly code in **Python, PHP and Java**
 
-- 💬 Ask me about **Data Analysis / Fullstack Web Development / Machine Learning**
+- 💬 Ask me about **Data Analysis / Backend Development / Machine Learning**
  
 - 😄 Pronouns: **_he/him_**  
 
